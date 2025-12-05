@@ -26,7 +26,7 @@ This repository reproduces and enhances the BCR-HDL breast cancer prediction fra
 - 198 samples, 31 features
 - Target: Recurrence / No Recurrence
 - Highly imbalanced
-- Dataset where perfect accuracy was achieved
+  
 
 **WDBC — Wisconsin Diagnostic Breast Cancer**
 - 569 samples, 30 features
