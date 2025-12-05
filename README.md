@@ -1,9 +1,9 @@
-# 🩺 WPBC Breast Cancer Prediction Using Hybrid DL + ML Pipeline
+# WPBC Breast Cancer Prediction Using Hybrid DL + ML Pipeline
 **Reproduction & Enhancement of the Base Paper: BCR-HDL (DOI: 10.1007/s42452-025-06512-5)**
 
 ---
 
-## ⭐ Overview
+## Overview
 This repository reproduces and enhances the BCR-HDL breast cancer prediction framework using a **Hybrid Deep Learning → Machine Learning (DL→ML)** pipeline. 
 
 **Key enhancements include:**
